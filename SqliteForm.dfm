@@ -1,7 +1,7 @@
 object Form1: TForm1
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'History Viewer'
   ClientHeight = 500
   ClientWidth = 791
   Color = clBtnFace
