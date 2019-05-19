@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.05.19 18:33:45.618,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.19 18:33:54.225,=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.19 18:40:25.962,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\SqliteForm.cpp=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019.05.19 18:40:25.962,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\SqliteForm.dfm=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019.05.19 18:40:25.962,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\SqliteForm.h=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2019.05.19 18:40:40.531,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\SqliteFormPCH1.h=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.05.19 18:41:29.964,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\Form.cbproj=C:\Users\Надежда\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2019.05.19 18:42:05.314,=C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.c</Transaction>
+    <Transaction>2019.05.19 18:42:05.344,=C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.h</Transaction>
+    <Transaction>2019.05.19 18:42:05.352,=C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3ext.h</Transaction>
+    <Transaction>2019.05.19 19:19:41.701,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.c=</Transaction>
+    <Transaction>2019.05.19 19:19:41.728,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.h=</Transaction>
+    <Transaction>2019.05.19 19:19:41.733,C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3ext.h=</Transaction>
+    <Transaction>2019.05.19 19:20:35.031,=C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.c</Transaction>
+    <Transaction>2019.05.19 19:20:35.059,=C:\Users\Надежда\Desktop\Studying\Хорьков\Sqlite\SqliteForm\sqlite3.h</Transaction>
+  </Transactions>
+</BorlandProject>
